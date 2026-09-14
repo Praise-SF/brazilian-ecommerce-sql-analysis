@@ -1,5 +1,7 @@
 # Raw dataset
 data/*
+
+# Keep the data folder in the repository
 !data/.gitkeep
 
 # OS files
